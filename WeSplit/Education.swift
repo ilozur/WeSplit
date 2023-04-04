@@ -14,6 +14,7 @@ struct Eduaction: View {
     @State private var tapCount = 0
     @State private var name = ""
     @State private var dick = "Ɛ="
+    
     var body: some View {
         NavigationView {
             Form {
